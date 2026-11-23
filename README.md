@@ -1,2 +1,1 @@
-# agensi-skill-push-test
-Connectivity and auth test for pushing skill packages from the agent
+Write test from the agent workspace.
